@@ -1,8 +1,6 @@
 # debugger
 
-Starting a personal project in my free time.
-This is going to be a debugger, written in C++ and will be used for linux debugging. 
-This is a preliminary version.
+Starting a personal project in my free time. <br/> This is a preliminary version of what is going to be a linux debugger, written in C++.
 
 How to use (for now):
 - Compile debugger
