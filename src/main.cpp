@@ -1,7 +1,6 @@
 #include <iostream>
 #include <unistd.h>
 
-#include "linenoise.h"
 #include "Debugger.hpp"
 
 int main(int argc, char* argv[])
