@@ -5,9 +5,9 @@ This is going to be a debugger, written in C++ and will be used for linux debugg
 This is a preliminary version.
 
 How to use (for now):
-Compile files
-Compile the program you want to debug
-In shell write: 
+- Compile debugger
+- Compile the program you want to debug
+- In shell write: 
 ```shell
 ./debugger <name_of_program>
 ``` 
