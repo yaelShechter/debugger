@@ -11,4 +11,5 @@ How to use (for now):
 ``` 
 
 If you want to learn the theory and practice for building such debugger: [Check it out](https://blog.tartanllama.xyz/writing-a-linux-debugger-setup/) <br/>
-More helpful information: [How debuggers work](https://eli.thegreenplace.net/2011/01/23/how-debuggers-work-part-1)
+More helpful information: [How debuggers work](https://eli.thegreenplace.net/2011/01/23/how-debuggers-work-part-1) <br/>
+Info about the `ptrace()` system call: [Playing with ptrace](https://www.linuxjournal.com/article/6100?page=0,1)
