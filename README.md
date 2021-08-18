@@ -10,6 +10,7 @@ How to use (for now):
 ./debugger <name_of_program>
 ``` 
 
-If you want to learn the theory and practice for building such debugger: [Check it out](https://blog.tartanllama.xyz/writing-a-linux-debugger-setup/) <br/>
-More helpful information: [How debuggers work](https://eli.thegreenplace.net/2011/01/23/how-debuggers-work-part-1) <br/>
+## Reading Material
+If you want to learn the theory and practice for building such debugger: [Check it out](https://blog.tartanllama.xyz/writing-a-linux-debugger-setup/) <br/><br/>
+More helpful information: [How debuggers work](https://eli.thegreenplace.net/2011/01/23/how-debuggers-work-part-1) <br/><br/>
 Info about the `ptrace()` system call: [Playing with ptrace](https://www.linuxjournal.com/article/6100?page=0,1)
