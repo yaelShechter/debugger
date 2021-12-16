@@ -20,9 +20,9 @@ pipeline {
 	
   stages {
     stage('run script') {
-     // environment {
-	//	    GITHUB_CREDENTIALS = credentials('centralcgwbot-github-tools-token')
-	  //  }
+      environment {
+	    GITHUB_CREDENTIALS = credentials('centralcgwbot-github-tools-token')
+	    }
       
       steps {
         sh './my_script.sh'
