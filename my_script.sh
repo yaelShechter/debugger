@@ -1,4 +1,4 @@
 #!/bin/bash
 
 echo hello
-#echo $GITHUB_CREDENTIALS
+echo $GITHUB_CREDENTIALS
