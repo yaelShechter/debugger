@@ -19,13 +19,13 @@ pipeline {
 
 	
   stages {
-    stage('run script that creates PR') {
-      environment {
-		    GITHUB_CREDENTIALS = credentials('centralcgwbot-github-tools-token')
-	    }
+    stage('run script') {
+     // environment {
+	//	    GITHUB_CREDENTIALS = credentials('centralcgwbot-github-tools-token')
+	  //  }
       
       steps {
-        sh 'my_script.sh $version'
+        sh './my_script.sh'
       }
     }
   }
